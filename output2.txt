@@ -1,0 +1,234 @@
+embed_size = 200
+hidden_size = 200
+num_layers = 2
+dropout = 0.5
+ifcuda = True
+
+lr = 0.005
+num_epoch = 8
+
+Script started on Thu 15 Mar 2018 12:31:31 AM UTC
+root@CS287:/home/jzhou/CS287/HW3# python3 main.py
+Finished data loading!
+
+Epoch 1/8, iteration 100 --- average loss: 4.601887 (time elapsed 0m 27s)
+Epoch 1/8, iteration 200 --- average loss: 4.339548 (time elapsed 0m 52s)
+Epoch 1/8, iteration 300 --- average loss: 4.211163 (time elapsed 1m 17s)
+Epoch 1/8, iteration 400 --- average loss: 4.137853 (time elapsed 1m 42s)
+Epoch 1/8, iteration 500 --- average loss: 4.074112 (time elapsed 2m 6s)
+Epoch 1/8, iteration 600 --- average loss: 4.022656 (time elapsed 2m 30s)
+Epoch 1/8, iteration 700 --- average loss: 3.984050 (time elapsed 2m 55s)
+Epoch 1/8, iteration 800 --- average loss: 3.947656 (time elapsed 3m 19s)
+Epoch 1/8, iteration 900 --- average loss: 3.919252 (time elapsed 3m 42s)
+Epoch 1/8, iteration 1000 --- average loss: 3.890208 (time elapsed 4m 7s)
+Epoch 1/8, iteration 1100 --- average loss: 3.868366 (time elapsed 4m 31s)
+Epoch 1/8, iteration 1200 --- average loss: 3.847057 (time elapsed 4m 56s)
+Epoch 1/8, iteration 1300 --- average loss: 3.827842 (time elapsed 5m 22s)
+Epoch 1/8, iteration 1400 --- average loss: 3.811097 (time elapsed 5m 46s)
+Epoch 1/8, iteration 1500 --- average loss: 3.798242 (time elapsed 6m 11s)
+Epoch 1/8, iteration 1600 --- average loss: 3.784505 (time elapsed 6m 36s)
+Epoch 1/8, iteration 1700 --- average loss: 3.769684 (time elapsed 7m 2s)
+Epoch 1/8, iteration 1800 --- average loss: 3.754461 (time elapsed 7m 28s)
+Ending of epoch 1/8 --- average loss: 3.748873 (time elapsed 7m 44s)
+Epoch 2/8, iteration 100 --- average loss: 3.450317 (time elapsed 8m 9s)
+Epoch 2/8, iteration 200 --- average loss: 3.477126 (time elapsed 8m 33s)
+Epoch 2/8, iteration 300 --- average loss: 3.467000 (time elapsed 8m 57s)
+Epoch 2/8, iteration 400 --- average loss: 3.455438 (time elapsed 9m 21s)
+Epoch 2/8, iteration 500 --- average loss: 3.433607 (time elapsed 9m 46s)
+Epoch 2/8, iteration 600 --- average loss: 3.417786 (time elapsed 10m 12s)
+Epoch 2/8, iteration 700 --- average loss: 3.403724 (time elapsed 10m 37s)
+Epoch 2/8, iteration 800 --- average loss: 3.391030 (time elapsed 11m 1s)
+Epoch 2/8, iteration 900 --- average loss: 3.381776 (time elapsed 11m 25s)
+Epoch 2/8, iteration 1000 --- average loss: 3.375326 (time elapsed 11m 50s)
+Epoch 2/8, iteration 1100 --- average loss: 3.373876 (time elapsed 12m 14s)
+Epoch 2/8, iteration 1200 --- average loss: 3.369334 (time elapsed 12m 38s)
+Epoch 2/8, iteration 1300 --- average loss: 3.362729 (time elapsed 13m 1s)
+Epoch 2/8, iteration 1400 --- average loss: 3.357359 (time elapsed 13m 26s)
+Epoch 2/8, iteration 1500 --- average loss: 3.352359 (time elapsed 13m 50s)
+Epoch 2/8, iteration 1600 --- average loss: 3.347784 (time elapsed 14m 14s)
+Epoch 2/8, iteration 1700 --- average loss: 3.343801 (time elapsed 14m 38s)
+Epoch 2/8, iteration 1800 --- average loss: 3.340477 (time elapsed 15m 2s)
+Ending of epoch 2/8 --- average loss: 3.338219 (time elapsed 15m 18s)
+Epoch 3/8, iteration 100 --- average loss: 3.236297 (time elapsed 15m 43s)
+Epoch 3/8, iteration 200 --- average loss: 3.206605 (time elapsed 16m 8s)
+Epoch 3/8, iteration 300 --- average loss: 3.204978 (time elapsed 16m 33s)
+Epoch 3/8, iteration 400 --- average loss: 3.204280 (time elapsed 16m 57s)
+Epoch 3/8, iteration 500 --- average loss: 3.211192 (time elapsed 17m 22s)
+Epoch 3/8, iteration 600 --- average loss: 3.218994 (time elapsed 17m 48s)
+Epoch 3/8, iteration 700 --- average loss: 3.213503 (time elapsed 18m 14s)
+Epoch 3/8, iteration 800 --- average loss: 3.210703 (time elapsed 18m 39s)
+Epoch 3/8, iteration 900 --- average loss: 3.206007 (time elapsed 19m 4s)
+Epoch 3/8, iteration 1000 --- average loss: 3.200004 (time elapsed 19m 29s)
+Epoch 3/8, iteration 1100 --- average loss: 3.197096 (time elapsed 19m 54s)
+Epoch 3/8, iteration 1200 --- average loss: 3.194780 (time elapsed 20m 19s)
+Epoch 3/8, iteration 1300 --- average loss: 3.193463 (time elapsed 20m 43s)
+Epoch 3/8, iteration 1400 --- average loss: 3.192955 (time elapsed 21m 9s)
+Epoch 3/8, iteration 1500 --- average loss: 3.192168 (time elapsed 21m 34s)
+Epoch 3/8, iteration 1600 --- average loss: 3.189951 (time elapsed 21m 58s)
+Epoch 3/8, iteration 1700 --- average loss: 3.187352 (time elapsed 22m 23s)
+Epoch 3/8, iteration 1800 --- average loss: 3.188737 (time elapsed 22m 48s)
+Ending of epoch 3/8 --- average loss: 3.188473 (time elapsed 23m 3s)
+Epoch 4/8, iteration 100 --- average loss: 3.095302 (time elapsed 23m 28s)
+Epoch 4/8, iteration 200 --- average loss: 3.111929 (time elapsed 23m 53s)
+Epoch 4/8, iteration 300 --- average loss: 3.101440 (time elapsed 24m 17s)
+Epoch 4/8, iteration 400 --- average loss: 3.101539 (time elapsed 24m 42s)
+Epoch 4/8, iteration 500 --- average loss: 3.092680 (time elapsed 25m 6s)
+Epoch 4/8, iteration 600 --- average loss: 3.093104 (time elapsed 25m 31s)
+Epoch 4/8, iteration 700 --- average loss: 3.091171 (time elapsed 25m 56s)
+Epoch 4/8, iteration 800 --- average loss: 3.090983 (time elapsed 26m 20s)
+Epoch 4/8, iteration 900 --- average loss: 3.086980 (time elapsed 26m 44s)
+Epoch 4/8, iteration 1000 --- average loss: 3.084665 (time elapsed 27m 10s)
+Epoch 4/8, iteration 1100 --- average loss: 3.082164 (time elapsed 27m 35s)
+Epoch 4/8, iteration 1200 --- average loss: 3.077739 (time elapsed 28m 0s)
+Epoch 4/8, iteration 1300 --- average loss: 3.078423 (time elapsed 28m 24s)
+Epoch 4/8, iteration 1400 --- average loss: 3.075194 (time elapsed 28m 50s)
+Epoch 4/8, iteration 1500 --- average loss: 3.073068 (time elapsed 29m 14s)
+Epoch 4/8, iteration 1600 --- average loss: 3.071479 (time elapsed 29m 39s)
+Epoch 4/8, iteration 1700 --- average loss: 3.068334 (time elapsed 30m 3s)
+Epoch 4/8, iteration 1800 --- average loss: 3.063746 (time elapsed 30m 28s)
+Ending of epoch 4/8 --- average loss: 3.063253 (time elapsed 30m 43s)
+Epoch 5/8, iteration 100 --- average loss: 2.968341 (time elapsed 31m 8s)
+Epoch 5/8, iteration 200 --- average loss: 2.980741 (time elapsed 31m 33s)
+Epoch 5/8, iteration 300 --- average loss: 2.988686 (time elapsed 31m 58s)
+Epoch 5/8, iteration 400 --- average loss: 2.993973 (time elapsed 32m 24s)
+Epoch 5/8, iteration 500 --- average loss: 2.993419 (time elapsed 32m 49s)
+Epoch 5/8, iteration 600 --- average loss: 2.993101 (time elapsed 33m 15s)
+Epoch 5/8, iteration 700 --- average loss: 2.992986 (time elapsed 33m 40s)
+Epoch 5/8, iteration 800 --- average loss: 2.994540 (time elapsed 34m 5s)
+Epoch 5/8, iteration 900 --- average loss: 2.994569 (time elapsed 34m 30s)
+Epoch 5/8, iteration 1000 --- average loss: 2.992778 (time elapsed 34m 55s)
+Epoch 5/8, iteration 1100 --- average loss: 2.989491 (time elapsed 35m 20s)
+Epoch 5/8, iteration 1200 --- average loss: 2.988866 (time elapsed 35m 44s)
+Epoch 5/8, iteration 1300 --- average loss: 2.988287 (time elapsed 36m 9s)
+Epoch 5/8, iteration 1400 --- average loss: 2.986376 (time elapsed 36m 33s)
+Epoch 5/8, iteration 1500 --- average loss: 2.985659 (time elapsed 36m 57s)
+Epoch 5/8, iteration 1600 --- average loss: 2.984493 (time elapsed 37m 22s)
+Epoch 5/8, iteration 1700 --- average loss: 2.980602 (time elapsed 37m 47s)
+Epoch 5/8, iteration 1800 --- average loss: 2.979916 (time elapsed 38m 12s)
+Ending of epoch 5/8 --- average loss: 2.979873 (time elapsed 38m 27s)
+Epoch 6/8, iteration 100 --- average loss: 2.917005 (time elapsed 38m 51s)
+Epoch 6/8, iteration 200 --- average loss: 2.896724 (time elapsed 39m 15s)
+Epoch 6/8, iteration 300 --- average loss: 2.909670 (time elapsed 39m 39s)
+Epoch 6/8, iteration 400 --- average loss: 2.919200 (time elapsed 40m 4s)
+Epoch 6/8, iteration 500 --- average loss: 2.917308 (time elapsed 40m 28s)
+Epoch 6/8, iteration 600 --- average loss: 2.917818 (time elapsed 40m 53s)
+Epoch 6/8, iteration 700 --- average loss: 2.917350 (time elapsed 41m 18s)
+Epoch 6/8, iteration 800 --- average loss: 2.920337 (time elapsed 41m 42s)
+Epoch 6/8, iteration 900 --- average loss: 2.923398 (time elapsed 42m 7s)
+Epoch 6/8, iteration 1000 --- average loss: 2.922694 (time elapsed 42m 31s)
+Epoch 6/8, iteration 1100 --- average loss: 2.925047 (time elapsed 42m 55s)
+Epoch 6/8, iteration 1200 --- average loss: 2.928034 (time elapsed 43m 19s)
+Epoch 6/8, iteration 1300 --- average loss: 2.924064 (time elapsed 43m 43s)
+Epoch 6/8, iteration 1400 --- average loss: 2.924157 (time elapsed 44m 8s)
+Epoch 6/8, iteration 1500 --- average loss: 2.921606 (time elapsed 44m 33s)
+Epoch 6/8, iteration 1600 --- average loss: 2.923867 (time elapsed 44m 57s)
+Epoch 6/8, iteration 1700 --- average loss: 2.927011 (time elapsed 45m 21s)
+Epoch 6/8, iteration 1800 --- average loss: 2.927038 (time elapsed 45m 46s)
+Ending of epoch 6/8 --- average loss: 2.928301 (time elapsed 46m 0s)
+Epoch 7/8, iteration 100 --- average loss: 2.835140 (time elapsed 46m 26s)
+Epoch 7/8, iteration 200 --- average loss: 2.848280 (time elapsed 46m 50s)
+Epoch 7/8, iteration 300 --- average loss: 2.845165 (time elapsed 47m 15s)
+Epoch 7/8, iteration 400 --- average loss: 2.854285 (time elapsed 47m 40s)
+Epoch 7/8, iteration 500 --- average loss: 2.860008 (time elapsed 48m 5s)
+Epoch 7/8, iteration 600 --- average loss: 2.864824 (time elapsed 48m 30s)
+Epoch 7/8, iteration 700 --- average loss: 2.863732 (time elapsed 48m 55s)
+Epoch 7/8, iteration 800 --- average loss: 2.869115 (time elapsed 49m 19s)
+Epoch 7/8, iteration 900 --- average loss: 2.871447 (time elapsed 49m 44s)
+Epoch 7/8, iteration 1000 --- average loss: 2.872777 (time elapsed 50m 9s)
+Epoch 7/8, iteration 1100 --- average loss: 2.872942 (time elapsed 50m 33s)
+Epoch 7/8, iteration 1200 --- average loss: 2.873141 (time elapsed 50m 58s)
+Epoch 7/8, iteration 1300 --- average loss: 2.876070 (time elapsed 51m 24s)
+Epoch 7/8, iteration 1400 --- average loss: 2.878673 (time elapsed 51m 49s)
+Epoch 7/8, iteration 1500 --- average loss: 2.880299 (time elapsed 52m 15s)
+Epoch 7/8, iteration 1600 --- average loss: 2.880781 (time elapsed 52m 40s)
+Epoch 7/8, iteration 1700 --- average loss: 2.882946 (time elapsed 53m 4s)
+Epoch 7/8, iteration 1800 --- average loss: 2.883992 (time elapsed 53m 29s)
+Ending of epoch 7/8 --- average loss: 2.885565 (time elapsed 53m 44s)
+Epoch 8/8, iteration 100 --- average loss: 2.875729 (time elapsed 54m 9s)
+Epoch 8/8, iteration 200 --- average loss: 2.860155 (time elapsed 54m 34s)
+Epoch 8/8, iteration 300 --- average loss: 2.868024 (time elapsed 54m 58s)
+Epoch 8/8, iteration 400 --- average loss: 2.866595 (time elapsed 55m 23s)
+Epoch 8/8, iteration 500 --- average loss: 2.865753 (time elapsed 55m 48s)
+Epoch 8/8, iteration 600 --- average loss: 2.861479 (time elapsed 56m 13s)
+Epoch 8/8, iteration 700 --- average loss: 2.865472 (time elapsed 56m 37s)
+Epoch 8/8, iteration 800 --- average loss: 2.864206 (time elapsed 57m 2s)
+Epoch 8/8, iteration 900 --- average loss: 2.865799 (time elapsed 57m 28s)
+Epoch 8/8, iteration 1000 --- average loss: 2.864284 (time elapsed 57m 53s)
+Epoch 8/8, iteration 1100 --- average loss: 2.864239 (time elapsed 58m 17s)
+Epoch 8/8, iteration 1200 --- average loss: 2.865300 (time elapsed 58m 42s)
+Epoch 8/8, iteration 1300 --- average loss: 2.864477 (time elapsed 59m 6s)
+Epoch 8/8, iteration 1400 --- average loss: 2.862838 (time elapsed 59m 29s)
+Epoch 8/8, iteration 1500 --- average loss: 2.862787 (time elapsed 59m 53s)
+Epoch 8/8, iteration 1600 --- average loss: 2.863723 (time elapsed 60m 17s)
+Epoch 8/8, iteration 1700 --- average loss: 2.865049 (time elapsed 60m 42s)
+Epoch 8/8, iteration 1800 --- average loss: 2.864984 (time elapsed 61m 8s)
+Ending of epoch 8/8 --- average loss: 2.864852 (time elapsed 61m 23s)
+Finished training!
+
+Average loss on validation set: 2.868241
+
+['<s>', 'I', 'want', 'to', 'want', 'to']
+['<s>', 'Who', 'do', 'of', 'a', 'leader']
+['<s>', 'This', 'was', 'a', 'clue', '.']
+['<s>', 'The', 'not', 'not', 'not', 'not']
+['<s>', 'The', '<unk>', 'is', 'not', 'not']
+['<s>', '<unk>', 'is', 'this', 'is', 'this']
+['<s>', 'The', 'is', 'the', 'the', 'the']
+['<s>', 'And', 'you', 'you', 'your', 'your']
+['<s>', 'This', 'was', 'was', 'the', '<unk>']
+['<s>', 'We', '<unk>', 'the', 'the', '<unk>']
+['<s>', 'My', 'my', 'my', 'my', 'my']
+['<s>', 'And', 'the', '<unk>', '<unk>', '.']
+['<s>', 'I', 'was', 'a', 'problem', '.']
+['<s>', 'And', 'the', 'the', 'the', 'the']
+['<s>', 'They', "'re", 'our', 'our', 'our']
+['<s>', 'It', "'s", 'very', 'very', 'very']
+['<s>', 'You', 'can', 'be', 'be', 'be']
+['<s>', 'He', 'was', 'very', 'very', 'very']
+['<s>', 'I', "'m", 'a', '<unk>', '.']
+['<s>', 'I', 'was', 'was', 'was', '.']
+['<s>', 'What', 'is', 'what', '?', '</s>']
+['<s>', 'It', 'can', 'be', 'be', 'be']
+['<s>', 'You', 'do', "n't", 'do', '.']
+['<s>', 'And', 'you', '<unk>', ',', '<unk>']
+['<s>', 'We', 'are', 'the', 'the', 'the']
+['<s>', '<unk>', 'of', 'the', '<unk>', '.']
+['<s>', 'Try', 'it', 'it', '.', '</s>']
+['<s>', 'That', "'s", 'not', 'not', 'do']
+['<s>', 'We', 'have', "n't", 'a', 'choice']
+['<s>', 'Thank', 'you', '.', 'Bye', 'you']
+['<s>', 'What', 'happens', 'what', '?', 'What']
+['<s>', 'But', ',', 'many', '.', '</s>']
+['<s>', 'This', 'was', 'my', '<unk>', '.']
+['<s>', 'Not', "n't", '<unk>', '.', 'Not']
+['<s>', 'Thank', '.', 'Thank', 'you', '.']
+['<s>', 'So', 'what', 'does', 'what', '?']
+['<s>', 'I', 'was', 'no', 'of', 'the']
+['<s>', 'We', "'re", 'the', '<unk>', '.']
+['<s>', 'Do', 'you', 'you', 'your', '?']
+['<s>', 'I', 'was', 'was', 'I', 'was']
+['<s>', 'This', 'is', 'what', '.', 'It']
+['<s>', 'Do', 'do', 'they', 'want', '?']
+['<s>', 'One', 'a', 'little', 'a', 'little']
+['<s>', 'Thank', 'you', 'very', 'much', '.']
+['<s>', 'Thank', 'you', 'very', 'much', '.']
+['<s>', 'Thank', 'you', 'very', 'much', '.']
+['<s>', 'In', 'right', ',', '.', 'It']
+['<s>', 'Thank', 'you', 'very', 'much', '.']
+['<s>', 'Thank', 'you', '.', 'Thank', '.']
+['<s>', 'Thank', 'you', 'very', 'much', '.']
+['<s>', 'Thank', 'you', '.', 'Thank', '.']
+['<s>', 'Thank', 'you', 'very', 'much', '.']
+['<s>', 'Thank', 'you', '.', 'Thank', 'you']
+['<s>', 'OK', '.', 'It', "'s", '.']
+['<s>', 'Thank', 'you', '.', 'Thank', 'you']
+['<s>', 'Thank', 'you', '.', 'Thank', 'you']
+['<s>', 'Thank', 'you', '.', 'Thank', 'you']
+['<s>', 'Thank', 'you', '.', 'Thank', 'you']
+['<s>', '<unk>', '.', 'It', "'s", '<unk>']
+['<s>', 'Thank', 'you', '.', 'Thank', 'you']
+['<s>', 'Thank', 'you', '.', 'Thank', '.']
+['<s>', '<unk>', '.', 'It', "'s", '<unk>']
+['<s>', 'Thank', 'you', '.', 'Thank', 'you']
+['<s>', '<unk>', 'of', 'the', 'the', 'the']
+root@CS287:/home/jzhou/CS287/HW3# 

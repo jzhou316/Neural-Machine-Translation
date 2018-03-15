@@ -1,0 +1,310 @@
+embed_size = 200
+hidden_size = 400
+num_layers = 1
+dropout = 0.3
+ifcuda = True
+
+lr = 0.005
+num_epoch = 10
+
+Script started on Thu 15 Mar 2018 03:48:19 AM UTC
+jzhou@CS287:~/CS287/HW3$ m[Kpython3 main.py
+Finished data loading!
+
+Epoch 1/10, iteration 100 --- average loss: 4.466942 (time elapsed 0m 27s)
+Epoch 1/10, iteration 200 --- average loss: 4.102764 (time elapsed 0m 54s)
+Epoch 1/10, iteration 300 --- average loss: 3.923022 (time elapsed 1m 21s)
+Epoch 1/10, iteration 400 --- average loss: 3.802052 (time elapsed 1m 48s)
+Epoch 1/10, iteration 500 --- average loss: 3.730281 (time elapsed 2m 14s)
+Epoch 1/10, iteration 600 --- average loss: 3.672604 (time elapsed 2m 41s)
+Epoch 1/10, iteration 700 --- average loss: 3.627270 (time elapsed 3m 8s)
+Epoch 1/10, iteration 800 --- average loss: 3.590450 (time elapsed 3m 35s)
+Epoch 1/10, iteration 900 --- average loss: 3.554575 (time elapsed 4m 2s)
+Epoch 1/10, iteration 1000 --- average loss: 3.521910 (time elapsed 4m 29s)
+Epoch 1/10, iteration 1100 --- average loss: 3.495730 (time elapsed 4m 56s)
+Epoch 1/10, iteration 1200 --- average loss: 3.473220 (time elapsed 5m 22s)
+Epoch 1/10, iteration 1300 --- average loss: 3.454198 (time elapsed 5m 49s)
+Epoch 1/10, iteration 1400 --- average loss: 3.432159 (time elapsed 6m 16s)
+Epoch 1/10, iteration 1500 --- average loss: 3.412642 (time elapsed 6m 43s)
+Epoch 1/10, iteration 1600 --- average loss: 3.397676 (time elapsed 7m 10s)
+Epoch 1/10, iteration 1700 --- average loss: 3.383188 (time elapsed 7m 37s)
+Epoch 1/10, iteration 1800 --- average loss: 3.368509 (time elapsed 8m 4s)
+Ending of epoch 1/10 --- average loss: 3.360518 (time elapsed 8m 20s)
+Epoch 2/10, iteration 100 --- average loss: 2.990885 (time elapsed 8m 47s)
+Epoch 2/10, iteration 200 --- average loss: 3.010427 (time elapsed 9m 14s)
+Epoch 2/10, iteration 300 --- average loss: 3.028495 (time elapsed 9m 41s)
+Epoch 2/10, iteration 400 --- average loss: 3.023816 (time elapsed 10m 8s)
+Epoch 2/10, iteration 500 --- average loss: 3.022263 (time elapsed 10m 35s)
+Epoch 2/10, iteration 600 --- average loss: 3.022439 (time elapsed 11m 2s)
+Epoch 2/10, iteration 700 --- average loss: 3.025320 (time elapsed 11m 29s)
+Epoch 2/10, iteration 800 --- average loss: 3.022705 (time elapsed 11m 55s)
+Epoch 2/10, iteration 900 --- average loss: 3.026334 (time elapsed 12m 23s)
+Epoch 2/10, iteration 1000 --- average loss: 3.029583 (time elapsed 12m 49s)
+Epoch 2/10, iteration 1100 --- average loss: 3.028913 (time elapsed 13m 17s)
+Epoch 2/10, iteration 1200 --- average loss: 3.026612 (time elapsed 13m 43s)
+Epoch 2/10, iteration 1300 --- average loss: 3.025794 (time elapsed 14m 10s)
+Epoch 2/10, iteration 1400 --- average loss: 3.025051 (time elapsed 14m 37s)
+Epoch 2/10, iteration 1500 --- average loss: 3.022122 (time elapsed 15m 4s)
+Epoch 2/10, iteration 1600 --- average loss: 3.021585 (time elapsed 15m 31s)
+Epoch 2/10, iteration 1700 --- average loss: 3.020470 (time elapsed 15m 57s)
+Epoch 2/10, iteration 1800 --- average loss: 3.018653 (time elapsed 16m 24s)
+Ending of epoch 2/10 --- average loss: 3.016947 (time elapsed 16m 40s)
+Epoch 3/10, iteration 100 --- average loss: 2.908608 (time elapsed 17m 7s)
+Epoch 3/10, iteration 200 --- average loss: 2.894643 (time elapsed 17m 34s)
+Epoch 3/10, iteration 300 --- average loss: 2.903512 (time elapsed 18m 1s)
+Epoch 3/10, iteration 400 --- average loss: 2.907327 (time elapsed 18m 29s)
+Epoch 3/10, iteration 500 --- average loss: 2.913843 (time elapsed 18m 55s)
+Epoch 3/10, iteration 600 --- average loss: 2.919396 (time elapsed 19m 22s)
+Epoch 3/10, iteration 700 --- average loss: 2.918211 (time elapsed 19m 49s)
+Epoch 3/10, iteration 800 --- average loss: 2.916133 (time elapsed 20m 16s)
+Epoch 3/10, iteration 900 --- average loss: 2.916219 (time elapsed 20m 43s)
+Epoch 3/10, iteration 1000 --- average loss: 2.921744 (time elapsed 21m 10s)
+Epoch 3/10, iteration 1100 --- average loss: 2.927289 (time elapsed 21m 37s)
+Epoch 3/10, iteration 1200 --- average loss: 2.931900 (time elapsed 22m 3s)
+Epoch 3/10, iteration 1300 --- average loss: 2.933207 (time elapsed 22m 31s)
+Epoch 3/10, iteration 1400 --- average loss: 2.933375 (time elapsed 22m 57s)
+Epoch 3/10, iteration 1500 --- average loss: 2.932354 (time elapsed 23m 24s)
+Epoch 3/10, iteration 1600 --- average loss: 2.931506 (time elapsed 23m 51s)
+Epoch 3/10, iteration 1700 --- average loss: 2.934232 (time elapsed 24m 18s)
+Epoch 3/10, iteration 1800 --- average loss: 2.934860 (time elapsed 24m 45s)
+Ending of epoch 3/10 --- average loss: 2.936666 (time elapsed 25m 1s)
+Epoch 4/10, iteration 100 --- average loss: 2.842205 (time elapsed 25m 28s)
+Epoch 4/10, iteration 200 --- average loss: 2.850959 (time elapsed 25m 55s)
+Epoch 4/10, iteration 300 --- average loss: 2.846248 (time elapsed 26m 23s)
+Epoch 4/10, iteration 400 --- average loss: 2.850406 (time elapsed 26m 49s)
+Epoch 4/10, iteration 500 --- average loss: 2.862455 (time elapsed 27m 16s)
+Epoch 4/10, iteration 600 --- average loss: 2.860185 (time elapsed 27m 43s)
+Epoch 4/10, iteration 700 --- average loss: 2.859599 (time elapsed 28m 9s)
+Epoch 4/10, iteration 800 --- average loss: 2.865622 (time elapsed 28m 36s)
+Epoch 4/10, iteration 900 --- average loss: 2.866501 (time elapsed 29m 3s)
+Epoch 4/10, iteration 1000 --- average loss: 2.870952 (time elapsed 29m 30s)
+Epoch 4/10, iteration 1100 --- average loss: 2.876272 (time elapsed 29m 57s)
+Epoch 4/10, iteration 1200 --- average loss: 2.877561 (time elapsed 30m 24s)
+Epoch 4/10, iteration 1300 --- average loss: 2.878062 (time elapsed 30m 50s)
+Epoch 4/10, iteration 1400 --- average loss: 2.877267 (time elapsed 31m 17s)
+Epoch 4/10, iteration 1500 --- average loss: 2.876444 (time elapsed 31m 44s)
+Epoch 4/10, iteration 1600 --- average loss: 2.877371 (time elapsed 32m 11s)
+Epoch 4/10, iteration 1700 --- average loss: 2.874926 (time elapsed 32m 37s)
+Epoch 4/10, iteration 1800 --- average loss: 2.876977 (time elapsed 33m 4s)
+Ending of epoch 4/10 --- average loss: 2.879052 (time elapsed 33m 20s)
+Epoch 5/10, iteration 100 --- average loss: 2.813940 (time elapsed 33m 47s)
+Epoch 5/10, iteration 200 --- average loss: 2.828659 (time elapsed 34m 14s)
+Epoch 5/10, iteration 300 --- average loss: 2.831587 (time elapsed 34m 41s)
+Epoch 5/10, iteration 400 --- average loss: 2.826426 (time elapsed 35m 8s)
+Epoch 5/10, iteration 500 --- average loss: 2.830034 (time elapsed 35m 35s)
+Epoch 5/10, iteration 600 --- average loss: 2.834478 (time elapsed 36m 2s)
+Epoch 5/10, iteration 700 --- average loss: 2.836505 (time elapsed 36m 29s)
+Epoch 5/10, iteration 800 --- average loss: 2.844614 (time elapsed 36m 56s)
+Epoch 5/10, iteration 900 --- average loss: 2.847319 (time elapsed 37m 23s)
+Epoch 5/10, iteration 1000 --- average loss: 2.846567 (time elapsed 37m 49s)
+Epoch 5/10, iteration 1100 --- average loss: 2.848037 (time elapsed 38m 16s)
+Epoch 5/10, iteration 1200 --- average loss: 2.851930 (time elapsed 38m 43s)
+Epoch 5/10, iteration 1300 --- average loss: 2.853321 (time elapsed 39m 10s)
+Epoch 5/10, iteration 1400 --- average loss: 2.856549 (time elapsed 39m 36s)
+Epoch 5/10, iteration 1500 --- average loss: 2.857698 (time elapsed 40m 4s)
+Epoch 5/10, iteration 1600 --- average loss: 2.856477 (time elapsed 40m 30s)
+Epoch 5/10, iteration 1700 --- average loss: 2.858523 (time elapsed 40m 57s)
+Epoch 5/10, iteration 1800 --- average loss: 2.859383 (time elapsed 41m 24s)
+Ending of epoch 5/10 --- average loss: 2.860106 (time elapsed 41m 40s)
+Epoch 6/10, iteration 100 --- average loss: 2.781313 (time elapsed 42m 7s)
+Epoch 6/10, iteration 200 --- average loss: 2.772496 (time elapsed 42m 34s)
+Epoch 6/10, iteration 300 --- average loss: 2.777924 (time elapsed 43m 1s)
+Epoch 6/10, iteration 400 --- average loss: 2.789423 (time elapsed 43m 28s)
+Epoch 6/10, iteration 500 --- average loss: 2.801843 (time elapsed 43m 54s)
+Epoch 6/10, iteration 600 --- average loss: 2.806104 (time elapsed 44m 21s)
+Epoch 6/10, iteration 700 --- average loss: 2.801116 (time elapsed 44m 48s)
+Epoch 6/10, iteration 800 --- average loss: 2.803466 (time elapsed 45m 15s)
+Epoch 6/10, iteration 900 --- average loss: 2.805131 (time elapsed 45m 42s)
+Epoch 6/10, iteration 1000 --- average loss: 2.806537 (time elapsed 46m 9s)
+Epoch 6/10, iteration 1100 --- average loss: 2.805237 (time elapsed 46m 36s)
+Epoch 6/10, iteration 1200 --- average loss: 2.805538 (time elapsed 47m 3s)
+Epoch 6/10, iteration 1300 --- average loss: 2.804868 (time elapsed 47m 30s)
+Epoch 6/10, iteration 1400 --- average loss: 2.806326 (time elapsed 47m 57s)
+Epoch 6/10, iteration 1500 --- average loss: 2.806724 (time elapsed 48m 24s)
+Epoch 6/10, iteration 1600 --- average loss: 2.806511 (time elapsed 48m 51s)
+Epoch 6/10, iteration 1700 --- average loss: 2.807451 (time elapsed 49m 18s)
+Epoch 6/10, iteration 1800 --- average loss: 2.806806 (time elapsed 49m 45s)
+Ending of epoch 6/10 --- average loss: 2.807728 (time elapsed 50m 1s)
+Epoch 7/10, iteration 100 --- average loss: 2.699043 (time elapsed 50m 28s)
+Epoch 7/10, iteration 200 --- average loss: 2.713458 (time elapsed 50m 56s)
+Epoch 7/10, iteration 300 --- average loss: 2.721330 (time elapsed 51m 22s)
+Epoch 7/10, iteration 400 --- average loss: 2.722747 (time elapsed 51m 49s)
+Epoch 7/10, iteration 500 --- average loss: 2.728613 (time elapsed 52m 16s)
+Epoch 7/10, iteration 600 --- average loss: 2.731729 (time elapsed 52m 43s)
+Epoch 7/10, iteration 700 --- average loss: 2.746247 (time elapsed 53m 10s)
+Epoch 7/10, iteration 800 --- average loss: 2.755627 (time elapsed 53m 37s)
+Epoch 7/10, iteration 900 --- average loss: 2.758721 (time elapsed 54m 3s)
+Epoch 7/10, iteration 1000 --- average loss: 2.763939 (time elapsed 54m 30s)
+Epoch 7/10, iteration 1100 --- average loss: 2.765551 (time elapsed 54m 57s)
+Epoch 7/10, iteration 1200 --- average loss: 2.766812 (time elapsed 55m 24s)
+Epoch 7/10, iteration 1300 --- average loss: 2.770862 (time elapsed 55m 51s)
+Epoch 7/10, iteration 1400 --- average loss: 2.771891 (time elapsed 56m 18s)
+Epoch 7/10, iteration 1500 --- average loss: 2.773943 (time elapsed 56m 44s)
+Epoch 7/10, iteration 1600 --- average loss: 2.776092 (time elapsed 57m 11s)
+Epoch 7/10, iteration 1700 --- average loss: 2.778680 (time elapsed 57m 38s)
+Epoch 7/10, iteration 1800 --- average loss: 2.780673 (time elapsed 58m 5s)
+Ending of epoch 7/10 --- average loss: 2.781002 (time elapsed 58m 22s)
+Epoch 8/10, iteration 100 --- average loss: 2.711927 (time elapsed 58m 50s)
+Epoch 8/10, iteration 200 --- average loss: 2.741493 (time elapsed 59m 17s)
+Epoch 8/10, iteration 300 --- average loss: 2.746224 (time elapsed 59m 43s)
+Epoch 8/10, iteration 400 --- average loss: 2.749542 (time elapsed 60m 10s)
+Epoch 8/10, iteration 500 --- average loss: 2.745327 (time elapsed 60m 37s)
+Epoch 8/10, iteration 600 --- average loss: 2.748180 (time elapsed 61m 4s)
+Epoch 8/10, iteration 700 --- average loss: 2.742516 (time elapsed 61m 30s)
+Epoch 8/10, iteration 800 --- average loss: 2.739335 (time elapsed 61m 57s)
+Epoch 8/10, iteration 900 --- average loss: 2.740077 (time elapsed 62m 25s)
+Epoch 8/10, iteration 1000 --- average loss: 2.739782 (time elapsed 62m 52s)
+Epoch 8/10, iteration 1100 --- average loss: 2.741795 (time elapsed 63m 19s)
+Epoch 8/10, iteration 1200 --- average loss: 2.746624 (time elapsed 63m 45s)
+Epoch 8/10, iteration 1300 --- average loss: 2.750228 (time elapsed 64m 12s)
+Epoch 8/10, iteration 1400 --- average loss: 2.747152 (time elapsed 64m 39s)
+Epoch 8/10, iteration 1500 --- average loss: 2.749109 (time elapsed 65m 5s)
+Epoch 8/10, iteration 1600 --- average loss: 2.750407 (time elapsed 65m 32s)
+Epoch 8/10, iteration 1700 --- average loss: 2.751868 (time elapsed 65m 59s)
+Epoch 8/10, iteration 1800 --- average loss: 2.751911 (time elapsed 66m 26s)
+Ending of epoch 8/10 --- average loss: 2.752260 (time elapsed 66m 42s)
+Epoch 9/10, iteration 100 --- average loss: 2.693936 (time elapsed 67m 10s)
+Epoch 9/10, iteration 200 --- average loss: 2.680428 (time elapsed 67m 36s)
+Epoch 9/10, iteration 300 --- average loss: 2.682359 (time elapsed 68m 3s)
+Epoch 9/10, iteration 400 --- average loss: 2.678997 (time elapsed 68m 30s)
+Epoch 9/10, iteration 500 --- average loss: 2.683379 (time elapsed 68m 57s)
+Epoch 9/10, iteration 600 --- average loss: 2.690980 (time elapsed 69m 24s)
+Epoch 9/10, iteration 700 --- average loss: 2.692451 (time elapsed 69m 51s)
+Epoch 9/10, iteration 800 --- average loss: 2.701528 (time elapsed 70m 18s)
+Epoch 9/10, iteration 900 --- average loss: 2.703992 (time elapsed 70m 45s)
+Epoch 9/10, iteration 1000 --- average loss: 2.704118 (time elapsed 71m 12s)
+Epoch 9/10, iteration 1100 --- average loss: 2.703126 (time elapsed 71m 39s)
+Epoch 9/10, iteration 1200 --- average loss: 2.708221 (time elapsed 72m 5s)
+Epoch 9/10, iteration 1300 --- average loss: 2.710241 (time elapsed 72m 32s)
+Epoch 9/10, iteration 1400 --- average loss: 2.713755 (time elapsed 72m 59s)
+Epoch 9/10, iteration 1500 --- average loss: 2.715958 (time elapsed 73m 26s)
+Epoch 9/10, iteration 1600 --- average loss: 2.717481 (time elapsed 73m 53s)
+Epoch 9/10, iteration 1700 --- average loss: 2.720161 (time elapsed 74m 20s)
+Epoch 9/10, iteration 1800 --- average loss: 2.723665 (time elapsed 74m 46s)
+Ending of epoch 9/10 --- average loss: 2.725558 (time elapsed 75m 3s)
+Epoch 10/10, iteration 100 --- average loss: 2.724697 (time elapsed 75m 30s)
+Epoch 10/10, iteration 200 --- average loss: 2.725528 (time elapsed 75m 57s)
+Epoch 10/10, iteration 300 --- average loss: 2.713642 (time elapsed 76m 23s)
+Epoch 10/10, iteration 400 --- average loss: 2.712984 (time elapsed 76m 51s)
+Epoch 10/10, iteration 500 --- average loss: 2.711602 (time elapsed 77m 18s)
+Epoch 10/10, iteration 600 --- average loss: 2.720263 (time elapsed 77m 45s)
+Epoch 10/10, iteration 700 --- average loss: 2.725949 (time elapsed 78m 12s)
+Epoch 10/10, iteration 800 --- average loss: 2.727112 (time elapsed 78m 38s)
+Epoch 10/10, iteration 900 --- average loss: 2.728388 (time elapsed 79m 5s)
+Epoch 10/10, iteration 1000 --- average loss: 2.729487 (time elapsed 79m 31s)
+Epoch 10/10, iteration 1100 --- average loss: 2.725749 (time elapsed 79m 59s)
+Epoch 10/10, iteration 1200 --- average loss: 2.725346 (time elapsed 80m 26s)
+Epoch 10/10, iteration 1300 --- average loss: 2.730184 (time elapsed 80m 53s)
+Epoch 10/10, iteration 1400 --- average loss: 2.732815 (time elapsed 81m 20s)
+Epoch 10/10, iteration 1500 --- average loss: 2.736895 (time elapsed 81m 47s)
+Epoch 10/10, iteration 1600 --- average loss: 2.735860 (time elapsed 82m 14s)
+Epoch 10/10, iteration 1700 --- average loss: 2.742846 (time elapsed 82m 41s)
+Epoch 10/10, iteration 1800 --- average loss: 2.744260 (time elapsed 83m 7s)
+Ending of epoch 10/10 --- average loss: 2.746792 (time elapsed 83m 24s)
+Finished training!
+
+Average loss on validation set: 2.922834
+
+['<s>', 'I', 'want', 'to', 'be', 'the']
+['<s>', 'Who', 'is', 'a', '<unk>', '?']
+['<s>', 'This', 'was', 'no', '.', '</s>']
+['<s>', 'The', '<unk>', 'is', 'not', 'not']
+['<s>', 'The', '<unk>', 'is', 'not', '<unk>']
+All beams have met <EOS>!
+All beams have met <EOS>!
+['<s>', '<unk>', '.', '</s>']
+['<s>', 'The', 'integrity', 'is', 'the', 'hardest']
+['<s>', 'You', "'re", 'a', 'bit', '.']
+['<s>', 'The', 'book', 'was', 'a', '<unk>']
+['<s>', 'We', 'have', '<unk>', '.', '</s>']
+['<s>', 'My', 'God', ',', 'I', 'had']
+['<s>', 'And', 'the', '<unk>', '.', '</s>']
+['<s>', 'I', 'was', 'a', 'huge', 'idea']
+All beams have met <EOS>!
+All beams have met <EOS>!
+['<s>', '<unk>', '.', '</s>']
+['<s>', 'They', "'re", 'going', 'to', 'cradle']
+['<s>', 'It', "'s", 'a', 'lot', 'of']
+['<s>', 'You', "'re", 'going', 'to', 'be']
+['<s>', 'You', 'can', 'see', '.', '</s>']
+['<s>', 'I', "'m", 'a', '<unk>', '.']
+['<s>', 'I', 'was', 'going', 'to', 'be']
+['<s>', 'What', 'is', 'the', 'next', '?']
+['<s>', 'It', "'s", 'a', 'lot', 'of']
+['<s>', 'They', 'did', "n't", 'not', 'it']
+['<s>', '<unk>', ',', 'and', 'you', "'re"]
+['<s>', 'We', "'re", 'seeing', 'the', '<unk>']
+All beams have met <EOS>!
+All beams have met <EOS>!
+['<s>', '<unk>', '.', '</s>']
+['<s>', 'Make', 'you', 'go', '.', '</s>']
+['<s>', 'It', "'s", 'not', 'not', 'not']
+['<s>', 'We', 'have', 'no', '.', '</s>']
+All beams have met <EOS>!
+['<s>', 'Thank', 'you', '.', '</s>']
+['<s>', 'What', "'s", 'going', 'to', 'be']
+['<s>', 'But', 'many', 'day', 'of', 'many']
+['<s>', 'This', 'was', 'a', '<unk>', '.']
+['<s>', 'It', "'s", '<unk>', '.', '</s>']
+All beams have met <EOS>!
+All beams have met <EOS>!
+['<s>', '<unk>', '.', '</s>']
+['<s>', 'So', 'what', 'happens', 'to', 'be']
+['<s>', 'I', 'was', 'afraid', 'of', 'my']
+['<s>', 'We', 'have', 'to', 'see', '.']
+['<s>', 'You', "'re", 'going', 'to', 'look']
+['<s>', 'I', 'was', 'going', 'to', 'be']
+['<s>', 'This', 'is', 'the', '<unk>', '.']
+['<s>', 'The', 'eyes', 'are', 'how', 'we']
+All beams have met <EOS>!
+['<s>', 'A', '<unk>', '.', '</s>']
+['<s>', 'Thank', 'you', 'very', 'much', '.']
+['<s>', 'Thank', 'you', 'very', 'much', '.']
+['<s>', 'Thank', 'you', 'very', 'much', '.']
+['<s>', 'All', ',', 'it', "'s", 'a']
+['<s>', 'Thank', 'you', 'very', 'much', '.']
+All beams have met <EOS>!
+['<s>', 'Thank', 'you', '.', '</s>']
+['<s>', 'Thank', 'you', 'very', 'much', '.']
+All beams have met <EOS>!
+['<s>', 'Thank', 'you', '.', '</s>']
+['<s>', 'Thank', 'you', 'very', 'much', '.']
+All beams have met <EOS>!
+['<s>', 'Thank', 'you', '.', '</s>']
+All beams have met <EOS>!
+All beams have met <EOS>!
+['<s>', '<unk>', '.', '</s>']
+All beams have met <EOS>!
+['<s>', 'Thank', 'you', '.', '</s>']
+All beams have met <EOS>!
+['<s>', 'Thank', 'you', '.', '</s>']
+All beams have met <EOS>!
+['<s>', 'Thank', 'you', '.', '</s>']
+All beams have met <EOS>!
+['<s>', 'Thank', 'you', '.', '</s>']
+All beams have met <EOS>!
+All beams have met <EOS>!
+['<s>', '<unk>', '.', '</s>']
+All beams have met <EOS>!
+['<s>', 'Thank', 'you', '.', '</s>']
+All beams have met <EOS>!
+['<s>', 'And', 'you', '.', '</s>']
+All beams have met <EOS>!
+All beams have met <EOS>!
+['<s>', '<unk>', '.', '</s>']
+All beams have met <EOS>!
+['<s>', 'Thank', 'you', '.', '</s>']
+['<s>', 'We', "'re", 'going', 'to', 'be']
+Exception ignored in: <bound method DropoutDescriptor.__del__ of <torch.backends.cudnn.DropoutDescriptor object at 0x7f9f59019b70>>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/torch/backends/cudnn/__init__.py", line 238, in __del__
+AttributeError: 'NoneType' object has no attribute 'cudnnDestroyDropoutDescriptor'
+Exception ignored in: <bound method DropoutDescriptor.__del__ of <torch.backends.cudnn.DropoutDescriptor object at 0x7f9f59019a58>>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/torch/backends/cudnn/__init__.py", line 238, in __del__
+AttributeError: 'NoneType' object has no attribute 'cudnnDestroyDropoutDescriptor'
+Exception ignored in: <bound method CuDNNHandle.__del__ of <torch.backends.cudnn.CuDNNHandle object at 0x7f9f59019ac8>>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/torch/backends/cudnn/__init__.py", line 114, in __del__
+AttributeError: 'NoneType' object has no attribute 'cudnnDestroy'
+jzhou@CS287:~/CS287/HW3$ 

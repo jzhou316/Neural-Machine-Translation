@@ -1,0 +1,320 @@
+Ich will sie <unk> machen .
+--->
+<s> I want to make them public . </s> <pad> <pad> <pad> <pad> <pad>
+
+
+Wer schickt wem eine SMS ?
+--->
+<s> Who sends whom a text message ? </s> <pad> <pad> <pad> <pad> <pad>
+
+
+Diese Person wurde niemals geboren .
+--->
+<s> This person has never been born . </s> <pad> <pad> <pad> <pad> <pad>
+
+
+Die Technologien dafür existieren nicht .
+--->
+<s> The technologies do not exist to do that . </s> <pad> <pad> <pad>
+
+
+Die <unk> ist nicht nachhaltig .
+--->
+<s> The internal combustion engine is not sustainable . </s> <pad> <pad> <pad> <pad>
+
+
+Planung hat diesen <unk> Fleck .
+--->
+<s> So planning has this blind spot . </s> <pad> <pad> <pad> <pad> <pad>
+
+
+Das Wichtigste ist die Leidenschaft .
+--->
+<s> The most important thing is passion . </s> <pad> <pad> <pad> <pad> <pad>
+
+
+Lesen Sie einfach ihr Buch .
+--->
+<s> Just go and read her book . </s> <pad> <pad> <pad> <pad> <pad>
+
+
+Das Buch wurde 2009 veröffentlicht .
+--->
+<s> The book was published in 2009 . </s> <pad> <pad> <pad> <pad> <pad>
+
+
+Wir <unk> zumindest die <unk> .
+--->
+<s> Because , you see , at least we fed the <unk> . </s>
+
+
+Meine Familie glaubt an mich .
+--->
+<s> My family believes in me . </s> <pad> <pad> <pad> <pad> <pad> <pad>
+
+
+Und der <unk> <unk> . <pad>
+--->
+<s> And the indicator box makes the lights flash . </s> <pad> <pad> <pad>
+
+
+Ich hatte eine Idee . <pad>
+--->
+<s> So I had an idea . </s> <pad> <pad> <pad> <pad> <pad> <pad>
+
+
+und töten die Löwen . <pad>
+--->
+<s> So they kill the lions . </s> <pad> <pad> <pad> <pad> <pad> <pad>
+
+
+Sie töten unser Vieh . <pad>
+--->
+<s> They kill our livestock . </s> <pad> <pad> <pad> <pad> <pad> <pad> <pad>
+
+
+Sie ist viel besser . <pad>
+--->
+<s> It 's much better than that . </s> <pad> <pad> <pad> <pad> <pad>
+
+
+Man darf außergewöhnlich sein . <pad>
+--->
+<s> You can be extraordinary . </s> <pad> <pad> <pad> <pad> <pad> <pad> <pad>
+
+
+Er schrie sehr viel . <pad>
+--->
+<s> He <unk> a lot . </s> <pad> <pad> <pad> <pad> <pad> <pad> <pad>
+
+
+Ich <unk> eine <unk> . <pad>
+--->
+<s> I even went through an identity crisis . </s> <pad> <pad> <pad> <pad>
+
+
+Ich war so schockiert . <pad>
+--->
+<s> I was so shocked . </s> <pad> <pad> <pad> <pad> <pad> <pad> <pad>
+
+
+Was ist es dann ? <pad>
+--->
+<s> What is it , then ? </s> <pad> <pad> <pad> <pad> <pad> <pad>
+
+
+Es hätte funktionieren können . <pad>
+--->
+<s> And , you know , it could have worked . </s> <pad> <pad>
+
+
+Man wusste es nicht . <pad>
+--->
+<s> They did n't know . </s> <pad> <pad> <pad> <pad> <pad> <pad> <pad>
+
+
+Außerdem kriegt man <unk> . <pad>
+--->
+<s> <unk> you get <unk> . </s> <pad> <pad> <pad> <pad> <pad> <pad> <pad>
+
+
+Wir sind der Boden . <pad>
+--->
+<s> We are the soil . </s> <pad> <pad> <pad> <pad> <pad> <pad> <pad>
+
+
+<unk> Zeilen an Informationen . <pad>
+--->
+<s> Thirty - five thousand eight hundred <unk> lines of information . </s> <pad>
+
+
+Halten Sie es hoch . <pad>
+--->
+<s> Hold it up . </s> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad>
+
+
+So etwas existiert nicht . <pad>
+--->
+<s> It does n't exist . </s> <pad> <pad> <pad> <pad> <pad> <pad> <pad>
+
+
+Wir haben keine Infrastruktur . <pad>
+--->
+<s> We have zero infrastructure . </s> <pad> <pad> <pad> <pad> <pad> <pad> <pad>
+
+
+Danke , Tom . <pad> <pad>
+--->
+<s> Thanks , Tom . </s> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad>
+
+
+Was passiert hier ? <pad> <pad>
+--->
+<s> What 's going on here ? </s> <pad> <pad> <pad> <pad> <pad> <pad>
+
+
+Aber viele sterben . <pad> <pad>
+--->
+<s> But many die . </s> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad>
+
+
+Das war peinlich . <pad> <pad>
+--->
+<s> That was awkward . </s> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad>
+
+
+Nicht so <unk> . <pad> <pad>
+--->
+<s> Not that <unk> . </s> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad>
+
+
+Frieden . Danke . <pad> <pad>
+--->
+<s> Peace . Thank you . </s> <pad> <pad> <pad> <pad> <pad> <pad> <pad>
+
+
+Was passierte also ? <pad> <pad>
+--->
+<s> So what happened ? </s> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad>
+
+
+Ich hatte Angst – <pad> <pad>
+--->
+<s> And I was scared . </s> <pad> <pad> <pad> <pad> <pad> <pad> <pad>
+
+
+Wir aktivieren Gemeinschaften . <pad> <pad>
+--->
+<s> We activate communities . </s> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad>
+
+
+Raten Sie mal ? <pad> <pad>
+--->
+<s> Guess what ? </s> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad>
+
+
+Ich war verzweifelt . <pad> <pad>
+--->
+<s> And I was <unk> . </s> <pad> <pad> <pad> <pad> <pad> <pad> <pad>
+
+
+Das ist sie . <pad> <pad>
+--->
+<s> There she is . </s> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad>
+
+
+<unk> sie uns ? <pad> <pad>
+--->
+<s> Were we being followed ? </s> <pad> <pad> <pad> <pad> <pad> <pad> <pad>
+
+
+Eine richtige Schule . <pad> <pad>
+--->
+<s> A real school . </s> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad>
+
+
+Vielen Dank . <pad> <pad> <pad>
+--->
+<s> Thank you . </s> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad>
+
+
+Vielen Dank . <pad> <pad> <pad>
+--->
+<s> Thank you . </s> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad>
+
+
+Vielen Dank . <pad> <pad> <pad>
+--->
+<s> Thank you . </s> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad>
+
+
+In Ordnung . <pad> <pad> <pad>
+--->
+<s> All right . </s> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad>
+
+
+Vielen Dank . <pad> <pad> <pad>
+--->
+<s> Thank you very much . </s> <pad> <pad> <pad> <pad> <pad> <pad> <pad>
+
+
+Danke schön . <pad> <pad> <pad>
+--->
+<s> Thank you . </s> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad>
+
+
+Vielen Dank . <pad> <pad> <pad>
+--->
+<s> Thank you . </s> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad>
+
+
+Danke schön . <pad> <pad> <pad>
+--->
+<s> Thank you . </s> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad>
+
+
+Vielen Dank . <pad> <pad> <pad>
+--->
+<s> Thank you . </s> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad>
+
+
+Danke . <pad> <pad> <pad> <pad>
+--->
+<s> Thanks . </s> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad>
+
+
+Genau . <pad> <pad> <pad> <pad>
+--->
+<s> Absolutely . </s> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad>
+
+
+Danke . <pad> <pad> <pad> <pad>
+--->
+<s> Thank you . </s> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad>
+
+
+Danke . <pad> <pad> <pad> <pad>
+--->
+<s> Thank you . </s> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad>
+
+
+Danke . <pad> <pad> <pad> <pad>
+--->
+<s> Thank you . </s> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad>
+
+
+Danke . <pad> <pad> <pad> <pad>
+--->
+<s> Thank you . </s> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad>
+
+
+<unk> . <pad> <pad> <pad> <pad>
+--->
+<s> <unk> . </s> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad>
+
+
+Danke . <pad> <pad> <pad> <pad>
+--->
+<s> Thank you . </s> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad>
+
+
+Dankeschön . <pad> <pad> <pad> <pad>
+--->
+<s> Thank you . </s> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad>
+
+
+<unk> . <pad> <pad> <pad> <pad>
+--->
+<s> A hundred and <unk> - seven . </s> <pad> <pad> <pad> <pad> <pad>
+
+
+Danke . <pad> <pad> <pad> <pad>
+--->
+<s> Thank you . </s> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad>
+
+
+Rohdaten . <pad> <pad> <pad> <pad>
+--->
+<s> <unk> data . </s> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad>
+
+
